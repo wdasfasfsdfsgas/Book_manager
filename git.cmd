@@ -1,4 +1,3 @@
-## test
 ## git clone git@gitlab.xxx.com:mip_saas/mip_analyze.git pb  克隆远程git仓库的mip_analyze项目 ，pb指的本地的一个目录（也可以叫项目别名）
 ## cd pb/
 ##  git remote show origin     //远程的分支基本都叫origin
